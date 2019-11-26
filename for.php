@@ -39,5 +39,6 @@
       </tr>
     <?php endif ?>
     </table>
+    <?php echo "hi" ?>
 </body>
 </html>
